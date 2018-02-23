@@ -7,4 +7,6 @@ class Course
 
   def self.all
 
+  end
+
 end
