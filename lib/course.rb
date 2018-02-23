@@ -5,4 +5,6 @@ class Course
 
   end
 
+  def self.all
+
 end
