@@ -17,6 +17,6 @@ class Scraper
   end
 
   def get_page
-
+    html = open()
   end
 end
